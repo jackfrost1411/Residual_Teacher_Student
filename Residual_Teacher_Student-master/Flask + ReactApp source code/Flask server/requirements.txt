@@ -1,0 +1,9 @@
+Flask==1.1.2
+Flask-Cors==3.0.10
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+matplotlib
+numpy
+pandas
+Pillow
+tensorflow==2.4.1
