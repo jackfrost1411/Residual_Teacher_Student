@@ -259,7 +259,7 @@ classif_out_encoder2  = Dense(nbr_of_classes, name='out2',activation='softmax')(
 
 #Create ResTS Model
 ResTS = Model(base_model1.input, [classif_out_encoder1, classif_out_encoder2])
-ResTS.load_weights('tf/RTS')
+ResTS.load_weights('tf/RTS') ##loading only saved weights
 layer_name ='Mask'
 NewInput = ResTS.get_layer(layer_name).output
 visualization = K.function([ResTS.input], [NewInput])
