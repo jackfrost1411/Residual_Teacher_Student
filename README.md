@@ -12,7 +12,7 @@ We propose an architecture named ResTS (Residual Teacher/Student) that can be us
 ## 2. Cite the paper as instructed here: https://doi.org/10.1016/j.inpa.2021.06.001
 ## 3. You will be given access only if the request is credible and the paper is properly referenced and credited.
 
-## Cite this paper as:
+# Cite this paper as:
 ## 1. D.  Shah,  V.  Trivedi,  V.  Sheth,  A.  Shah,  U.  Chauhan,  ResTS:  Residual  DeepInterpretable Architecture for Plant Disease Detection, Information Processing in Agriculture (2021), doi: https://doi.org/10.1016/j.inpa.2021.06.001
 ## (https://www.sciencedirect.com/science/article/pii/S2214317321000482)
 
