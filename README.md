@@ -18,7 +18,7 @@ We propose an architecture named ResTS (Residual Teacher/Student) that can be us
 
 The data set used for this paper can be downloaded from https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/segmented. In this paper, we have used the segmented version with black background of [PlantVilage dataset](https://github.com/spMohanty/PlantVillage-Dataset).
 
-### Working video of the WebApp:
+## Working video of the WebApp:
 ![Working of Flask+React app](https://github.com/jackfrost1411/Residual_Teacher_Student/blob/master/Flask%20%2B%20ReactApp%20source%20code/Working%20of%20React%20app.gif)
 
 ## Prerequisites
